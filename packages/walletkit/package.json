@@ -26,7 +26,7 @@
     "@saberhq/tsconfig": "^1.13.19",
     "@saberhq/use-solana": "^1.13.19",
     "@solana/web3.js": "^1.43.2",
-    "@types/react-dom": "18.0.5",
+    "@types/react-dom": "18.0.6",
     "bn.js": "^5.2.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
