@@ -1,0 +1,8 @@
+{
+  "extends": "@saberhq/tsconfig/tsconfig.react.json",
+  "compilerOptions": {
+    "module": "CommonJS",
+    "noEmit": true
+  },
+  "include": ["packages/"]
+}
